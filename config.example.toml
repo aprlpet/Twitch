@@ -1,0 +1,19 @@
+[twitch]
+username = "bot_username"
+channel = "channel_to_join"
+oauth_token = "oauth:token"
+
+[spotify]
+client_id = "spotify_client_id"
+client_secret = "spotify_client_secret"
+refresh_token = "spotify_refresh_token"
+reward_id = "spotify_channel_point_reward_id"
+
+[commands.simple]
+dpi = "i use 800 dpi"
+pronouns = "my pronouns are any/all"
+mouse = "i use the op1 8k v2 https://www.endgamegear.com/en-gb/gaming-mice/op1-8k-v2"
+sens = "i use around 24.5-26.5cm/360"
+twitter = "https://x.com/APR1LHAAKS follow me ^_^"
+voltaic = "https://app.voltaic.gg/apr1lh4ck"
+boyslowdown = "boy slow down dropping all that bs music... 😭😂✌️"
